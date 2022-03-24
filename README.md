@@ -132,34 +132,32 @@ Now, let’s see how it looks on GitHub.
 
 
 
+Blockquotes
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
+> **The quick brown fox** *jumps over the lazy dog.*
 
-
-        Blockquotes text styles
+Blockquotes text styles
 
 We can achieve monospaced, and underlined styles using HTML tags `&lt;samp>` and `&lt;ins>`. For a strike-through style, we can use two tilda sign `~~`.
 
 
 ```md
-        Monospaced
-        <samp>The quick brown fox jumps over the lazy dog.</samp>
-```
+ Monospaced
+<samp>The quick brown fox jumps over the lazy dog.</samp>
 
+Underlined
+<ins>The quick brown fox jumps over the lazy dog.</ins>
 
-
-
-
-```md
-        Underlined
-        <ins>The quick brown fox jumps over the lazy dog.</ins>
-```
-
-
-
-
-
-```md
-        Strike-through
-        ~~The quick brown fox jumps over the lazy dog.~~
+Strike-through
+~~The quick brown fox jumps over the lazy dog.~~
 ```
 
 
@@ -169,10 +167,17 @@ Now, let’s see how it looks on GitHub.
 
 
 
+Monospaced
+<samp>The quick brown fox jumps over the lazy dog.</samp>
+
+Underlined
+<ins>The quick brown fox jumps over the lazy dog.</ins>
+
+Strike-through
+~~The quick brown fox jumps over the lazy dog.~~
 
 
-
-        Monospaced, Underlined, and Strike-through text styles
+Monospaced, Underlined, and Strike-through text styles
 
 We can use an HTML `&lt;table>` tag to create a box.
 
