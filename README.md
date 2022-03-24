@@ -439,8 +439,27 @@ Now display two tables side by side.
 
 
 
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
 
-        Display two tables side by side
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+Display two tables side by side
 
 Let’s create a table with multiple lines using the HTML `&lt;br/>` tag.
 
@@ -454,9 +473,11 @@ Let’s create a table with multiple lines using the HTML `&lt;br/>` tag.
 
 
 
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
 
-
-        A table with multiple lines
+A table with multiple lines
 
 **Links**
 
