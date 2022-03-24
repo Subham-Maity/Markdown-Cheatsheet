@@ -725,15 +725,16 @@ Now let’s create a task list. We can create a task list using a hyphen followe
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/94.png)
 
-        Tasklist
+Tasklist
 
 **Horizontal Rule**
 
 We can use three hyphens, asterisks, or underscores to create a horizontal line.
 
 
-```
+```md
         ---
         ***
         ___
