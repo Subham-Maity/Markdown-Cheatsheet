@@ -779,14 +779,14 @@ We can use a backslash to escape literal characters. Before escaping.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/96.png)
 
-
-        Before escaping
+Before escaping
 
 After escaping.
 
 
-```
+```md
         \*   Asterisk
         \\   Backslash
         \`   Backtick
@@ -805,8 +805,9 @@ After escaping.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/97.png)
 
-        After escaping
+After escaping
 
 We can also include[ emojis](https://gist.github.com/rxaviers/7360908) in our `.md` file.
 
