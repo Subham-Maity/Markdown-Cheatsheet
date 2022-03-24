@@ -743,15 +743,15 @@ We can use three hyphens, asterisks, or underscores to create a horizontal line.
 
 
 
-
-        Horizontal Rule
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/95.png)
+Horizontal Rule
 
 **Miscellaneous**
 
 We can include comments inside a `.md` file.
 
 
-```
+```md
         <!--
         Lorem ipsum dolor sit amet
         -->
@@ -761,7 +761,7 @@ We can include comments inside a `.md` file.
 We can use a backslash to escape literal characters. Before escaping.
 
 
-```
+```md
         *   Asterisk
         \   Backslash
         `   Backtick
