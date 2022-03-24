@@ -34,7 +34,7 @@ First, let’s talk about the markdown syntax.
 The second option, using the HTML syntax.
 
 
-```
+```md
         <h1>Heading 1</h1>
         <h2>Heading 2</h2>
         <h3>Heading 3</h3>
@@ -46,7 +46,7 @@ The second option, using the HTML syntax.
 Finally, we can use an alternate syntax. This method only works for heading 1 and heading 2. Add any number of `=` or `-` below the text for heading 1 or heading 2.
 
 
-```
+```md
         Heading 1
         =
         Heading 2
@@ -60,7 +60,7 @@ Now, let’s see how it looks on GitHub.
 
 
 
-        Headings
+
 
 
 ## **Text styles**
@@ -89,10 +89,10 @@ Now, let’s see how it looks on GitHub.
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
+
+![alt_text](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/2.png)
 
 
 
