@@ -187,9 +187,10 @@ Now, let’s see how it looks on GitHub.
 
 
 
+Boxed
+<table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
-
-        Boxed text style
+Boxed text style
 
 We can achieve subscript and superscript styles using HTML tag `&lt;sub>` and `&lt;sup>`. It is useful when you’re writing a mathematical formula.
 
