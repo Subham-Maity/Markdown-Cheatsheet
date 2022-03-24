@@ -717,7 +717,7 @@ A list using HTML
 Now let’s create a task list. We can create a task list using a hyphen followed by `[ ]`, and to mark a task complete, put an `x` inside the brackets.
 
 
-```java
+```html
         - [x] Fix Bug 223
         - [ ] Add Feature 33
         - [ ] Add unit tests
@@ -736,7 +736,7 @@ Tasklist
 We can use three hyphens, asterisks, or underscores to create a horizontal line.
 
 
-```md
+```html
         ---
         ***
         ___
@@ -754,7 +754,7 @@ Horizontal Rule
 We can include comments inside a `.md` file.
 
 
-```md
+```html
         <!--
         Lorem ipsum dolor sit amet
         -->
@@ -764,7 +764,7 @@ We can include comments inside a `.md` file.
 We can use a backslash to escape literal characters. Before escaping.
 
 
-```md
+```html
         *   Asterisk
         \   Backslash
         `   Backtick
@@ -789,7 +789,7 @@ Before escaping
 After escaping.
 
 
-```md
+```html
         \*   Asterisk
         \\   Backslash
         \`   Backtick
@@ -815,7 +815,7 @@ After escaping
 We can also include[ emojis](https://gist.github.com/rxaviers/7360908) in our `.md` file.
 
 
-```md
+```html
         :octocat:
 ```
 
@@ -829,7 +829,7 @@ An octocat emoji
 We can mention a person or team by typing `@` with their username or team name.
 
 
-```md
+```html
         @lifeparticle
 ```
 
@@ -843,7 +843,7 @@ Mention a person
 We can also bring up a list of suggested issues and pull requests within the repository by typing `#`.
 
 
-```md
+```html
         #
 ```
 
