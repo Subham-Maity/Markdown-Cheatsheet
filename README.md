@@ -689,9 +689,9 @@ Now let’s create an unordered list with sub-items.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/92.png)
 
-
-        An unordered list with sub-items
+An unordered list with sub-items
 
 We can also use HTML to create a list.
 
