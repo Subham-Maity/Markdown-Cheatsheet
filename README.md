@@ -317,8 +317,9 @@ Now, let’s align a text.
 
 
 
+<h3 align="center"> My latest Medium posts </h3>
 
-        Center align
+Center align
 
 **Tables**
 
