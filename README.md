@@ -490,8 +490,8 @@ If you’re using the same link more the once, then using the reference style wo
 
 
 
-
-        Three variations of reference-style
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/68.png)
+Three variations of reference-style
 
 We can also create relative links with all relative link operands, such as `./` and `../`.
 
