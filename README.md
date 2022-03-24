@@ -204,9 +204,10 @@ Now, let’s see how it looks on GitHub.
 
 
 
+Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
+Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
-
-        Subscript and Superscript text styles
+Subscript and Superscript text styles
 
 **Syntax Highlighting**
 
@@ -222,9 +223,9 @@ As you can see the word **Class** is highlighted.
 
 
 
+A class method is an instance method of the class object. When a new class is created, an object of type `Class` is initialized and assigned to a global constant (Mobile in this case).
 
-
-        Code Highlighting
+Code Highlighting
 
 We can also use triple backticks ````` before and after the code block to create the following view.
 
