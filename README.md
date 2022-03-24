@@ -575,8 +575,9 @@ We can also embed GIF and SVG.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/87.png)
 
-        GIF
+GIF
 
 
 ```md
@@ -587,8 +588,9 @@ We can also embed GIF and SVG.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/88.png)
 
-        SVG
+SVG
 
 **Lists**
 
@@ -604,9 +606,9 @@ For lists, we can have ordered and unordered lists.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/89.png)
 
-
-        An ordered list
+An ordered list
 
 Now let’s create an ordered list with sub-items.
 
