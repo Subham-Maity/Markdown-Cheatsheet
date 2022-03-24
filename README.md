@@ -31,6 +31,14 @@ First, let’s talk about the markdown syntax.
         ##### Heading 5
 ```
 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+
+
 
 The second option, using the HTML syntax.
 
@@ -43,6 +51,11 @@ The second option, using the HTML syntax.
         <h5>Heading 5</h5>
 ```
 
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
 
 Finally, we can use an alternate syntax. This method only works for heading 1 and heading 2. Add any number of `=` or `-` below the text for heading 1 or heading 2.
 
@@ -53,7 +66,10 @@ Finally, we can use an alternate syntax. This method only works for heading 1 an
         Heading 2
         - 
 ```
-
+Heading 1
+=
+Heading 2
+-
 
 Now, let’s see how it looks on GitHub.
 
@@ -61,9 +77,9 @@ Now, let’s see how it looks on GitHub.
 
 
 
-        Headings
 
-**Text styles**
+
+## **Text styles**
 
 Using markdown syntax, we can change texts’ styles, including bold, italic, blockquotes, monospaced, underlined, strike-through, boxed, subscript, and superscript.
 
@@ -88,13 +104,23 @@ We can use two asterisks (`**`), underscores (`__`), or an HTML tag `&lt;strong>
 Now, let’s see how it looks on GitHub.
 
 
+Bold
+**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
+<strong>The quick brown fox jumps over the lazy dog.</strong>
+Italic
+*The quick brown fox jumps over the lazy dog.*
+_The quick brown fox jumps over the lazy dog._
+<em>The quick brown fox jumps over the lazy dog.</em>
+Bold and Italic
+**_The quick brown fox jumps over the lazy dog._**
+<strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 
 
 
 
 
-
-        Bold and Italic text styles
+Bold and Italic text styles
 
 To create blockquote, we can use the greater than sign `>`. We can create a single-line or multi-line blockquote. Also, blockquote inside a blockquote. We can add other text styles inside a blockquote, such as bold or italic text styles.
 
