@@ -504,8 +504,9 @@ We can also create relative links with all relative link operands, such as `./` 
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/70.png)
 
-        Example of a relative link
+Example of a relative link
 
 GitHub can automatically create links from standard URLs.
 
@@ -518,8 +519,9 @@ GitHub can automatically create links from standard URLs.
 
 
 
+Visit https://github.com/
 
-        Auto link
+Auto link
 
 **Images**
 
@@ -534,8 +536,9 @@ We can add images using the similar techniques we used for links.
 
 
 
+![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 
-        Inline-style
+Inline-style
 
 
 ```md
@@ -547,8 +550,9 @@ We can add images using the similar techniques we used for links.
 
 
 
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 
-        Reference-style
+Reference-style
 
 Also, we can use the HTML `img` tag to add an image.
 
@@ -561,8 +565,9 @@ Also, we can use the HTML `img` tag to add an image.
 
 
 
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 
-        img tag
+img tag
 
 We can also embed GIF and SVG.
 
