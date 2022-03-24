@@ -237,10 +237,12 @@ We can also use triple backticks ````` before and after the code block to create
 
 
 
+```
+public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+```
 
 
-
-        Code Highlighting
+Code Highlighting
 
 We can add an optional language identifier to enable syntax highlighting. Refer to[ this](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) and[ this](https://github.com/github/linguist/tree/master/vendor) GitHub documents to find all the valid keywords.
 
@@ -256,9 +258,11 @@ Now, let’s see how it looks on GitHub.
 
 
 
+```java
+public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+```
 
-
-        Syntax Highlighting
+Syntax Highlighting
 
 **Alignments**
 
@@ -274,9 +278,11 @@ By using HTML tags, we can align README contents.
 
 
 
+<p align="left">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
 
-
-        Left align
+Left align
 
 
 ```md
@@ -288,9 +294,11 @@ By using HTML tags, we can align README contents.
 
 
 
+<p align="center">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
 
-
-        Center align
+Center align
 
 
 ```md
@@ -301,10 +309,12 @@ By using HTML tags, we can align README contents.
 
 
 
+<p align="right">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
 
 
-
-        Right align
+Right align
 
 Now, let’s align a text.
 
