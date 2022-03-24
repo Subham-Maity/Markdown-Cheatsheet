@@ -22,7 +22,7 @@ There are few options to create headings. We can use Markdown or HTML or an alte
 First, let’s talk about the markdown syntax.
 
 
-```
+```md
         # Heading 1
         ## Heading 2
         ### Heading 3
