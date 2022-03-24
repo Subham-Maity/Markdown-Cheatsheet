@@ -647,8 +647,9 @@ Now let’s create an ordered list with sub-items.
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/90.png)
 
-        An ordered list with sub-items
+An ordered list with sub-items
 
 To create an unordered list, we can asterisk, plus, or minus sign.
 
@@ -676,7 +677,7 @@ Unordered lists
 Now let’s create an unordered list with sub-items.
 
 
-```
+```md
         - First level
            - Second level
                - Third level
@@ -697,7 +698,7 @@ An unordered list with sub-items
 We can also use HTML to create a list.
 
 
-```
+```md
         <ul>
         <li>First item</li>
         <li>Second item</li>
