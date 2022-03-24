@@ -575,7 +575,8 @@ We can also embed GIF and SVG.
 
 
 
-<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
+
 
 GIF
 
