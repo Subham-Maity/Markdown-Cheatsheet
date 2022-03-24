@@ -11,33 +11,12 @@
 * Miscellaneous
 * Bitbucket
 * Tools
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.016 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Mar 24 2022 10:20:43 GMT-0700 (PDT)
-* Source doc: ER-Diagram
------>
 
 
 
 
-**Headings**
+
+## **Headings**
 
 There are few options to create headings. We can use Markdown or HTML or an alternative syntax to create our desired headings.
 
