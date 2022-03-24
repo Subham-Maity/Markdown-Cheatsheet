@@ -575,7 +575,7 @@ We can also embed GIF and SVG.
 
 
 
-![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/87.png)
+<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
 
 GIF
 
