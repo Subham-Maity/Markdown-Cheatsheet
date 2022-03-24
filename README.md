@@ -811,7 +811,7 @@ After escaping.
 We can also include[ emojis](https://gist.github.com/rxaviers/7360908) in our `.md` file.
 
 
-```
+```md
         :octocat:
 ```
 
@@ -819,13 +819,13 @@ We can also include[ emojis](https://gist.github.com/rxaviers/7360908) in our `.
 
 
 
-
-        An octocat emoji
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/98.png)
+An octocat emoji
 
 We can mention a person or team by typing `@` with their username or team name.
 
 
-```
+```md
         @lifeparticle
 ```
 
@@ -839,7 +839,7 @@ Mention a person
 We can also bring up a list of suggested issues and pull requests within the repository by typing `#`.
 
 
-```
+```md
         #
 ```
 
