@@ -373,66 +373,54 @@ To create a table with headers we need to use dashes to separate each header cel
 ```
 
 
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
+| Default    | Left align | Center align | Right align |
+| ---------- | :--------- | :----------: | ----------: |
+| 9999999999 | 9999999999 | 9999999999   | 9999999999  |
+| 999999999  | 999999999  | 999999999    | 999999999   |
+| 99999999   | 99999999   | 99999999     | 99999999    |
+| 9999999    | 9999999    | 9999999      | 9999999     |
+Default    | Left align | Center align | Right align
+---------- | :--------- | :----------: | ----------:
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999  
+99999999   | 99999999   | 99999999     | 99999999   
+9999999    | 9999999    | 9999999      | 9999999
 
 
 
-
-        Table with different alignments
+Table with different alignments
 
 Now display two tables side by side.
 
 
 ```md
-        <table>
-        <tr>
-        <th>Heading 1</th>
-        <th>Heading 2</th>
-        </tr>
-        <tr>
-```
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
 
+<td>
 
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
+</td><td>
 
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
-```md
-        <td>
-```
+</td></tr> </table>
 
-
-
-
-
-```md
-        | A | B | C |
-        |--|--|--|
-        | 1 | 2 | 3 |
-```
-
-
-
-
-
-```md
-        </td><td>
-```
-
-
-
-
-
-```md
-        | A | B | C |
-        |--|--|--|
-        | 1 | 2 | 3 |
-```
-
-
-
-
-
-```md
-        </td></tr> </table>
 ```
 
 
