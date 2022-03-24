@@ -345,8 +345,21 @@ Let’s create a table without headers.
 
 
 
+<table>
+<tr>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</table>
 
-        Table without header
+Table without header
 
 To create a table with headers we need to use dashes to separate each header cell and use pipes to separate columns. The outer pipes are optional. We can use any number of dashes and spaces to increase readability. We can use colons to align columns. For left-align text, use a colon to the left of dashes. For center-align text, use a colon on both sides of dashes. For right-align text, use a colon to the right of dashes. By default Left align is used.
 
