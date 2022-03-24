@@ -2,15 +2,15 @@
 * [Headings](#headings)
 * [Text styles](#text-styles)
 * [Syntax Highlighting](#syntax-highlighting)
-* Alignments
-* Tables
-* Links
-* Images
-* Lists
-* Horizontal Rule
-* Miscellaneous
-* Bitbucket
-* Tools
+* [Alignments](#alignments)
+* [Tables](#tables)
+* [Links](#links)
+* [Images](#images)
+* [Lists](#lists)
+* [Horizontal Rule](#horizontal-rule)
+* [Miscellaneous](#miscellaneous)
+* [Bitbucket](#bitbucket)
+* [Tools](#tools)
 
 
 
@@ -227,7 +227,7 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 Subscript and Superscript text styles
 
-**Syntax Highlighting**
+## **Syntax Highlighting**
 
 We can use a single backtick ``` before and after the code block to create the following view.
 
@@ -283,7 +283,7 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 
 Syntax Highlighting
 
-**Alignments**
+## **Alignments**
 
 By using HTML tags, we can align README contents.
 
@@ -350,7 +350,7 @@ Now, let’s align a text.
 
 Center align
 
-**Tables**
+## **Tables**
 
 Let’s create a table without headers.
 
@@ -510,7 +510,7 @@ Let’s create a table with multiple lines using the HTML `&lt;br/>` tag.
 
 A table with multiple lines
 
-**Links**
+## **Links**
 
 We can create a link in four ways. The first one is by using an inline style. The second one uses reference style, the third one using relative links, and finally auto links.
 
@@ -576,7 +576,7 @@ Visit https://github.com/
 
 Auto link
 
-**Images**
+## **Images**
 
 We can add images using the similar techniques we used for links.
 
@@ -651,7 +651,7 @@ GIF
 
 SVG
 
-**Lists**
+## **Lists**
 
 For lists, we can have ordered and unordered lists.
 
@@ -773,7 +773,7 @@ Now let’s create a task list. We can create a task list using a hyphen followe
 
 Tasklist
 
-**Horizontal Rule**
+## **Horizontal Rule**
 
 We can use three hyphens, asterisks, or underscores to create a horizontal line.
 
@@ -791,7 +791,7 @@ We can use three hyphens, asterisks, or underscores to create a horizontal line.
 ![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/95.png)
 Horizontal Rule
 
-**Miscellaneous**
+## **Miscellaneous**
 
 We can include comments inside a `.md` file.
 
@@ -896,11 +896,11 @@ We can also bring up a list of suggested issues and pull requests within the rep
 
 Referencing issues and pull requests
 
-**Bitbucket**
+## **Bitbucket**
 
 Bitbucket Supported Markdown for[ READMEs](https://bitbucket.org/tutorials/markdowndemo/src/master/). Also,[ create a table of contents](https://support.atlassian.com/bitbucket-cloud/docs/add-a-table-of-contents-to-a-wiki/).
 
-**Tools**
+## **Tools**
 
 There are various tools for Markdown, which will help you to build a beautiful GitHub README faster.
 
