@@ -100,31 +100,17 @@ To create blockquote, we can use the greater than sign `>`. We can create a sing
 
 
 ```md
-        Blockquotes
-        > The quick brown fox jumps over the lazy dog.
-        > The quick brown fox jumps over the lazy dog.
-```
-
-
-
-        `>` 
-
-
-```md
-        > The quick brown fox jumps over the lazy dog.
-```
-
-
-
-        `>` 
-
-
-```md
-        > The quick brown fox jumps over the lazy dog.
-        > The quick brown fox jumps over the lazy dog.
-        >> The quick brown fox jumps over the lazy dog.
-        >>> The quick brown fox jumps over the lazy dog.
-        > **The quick brown fox** *jumps over the lazy dog.*
+Blockquotes
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
+> **The quick brown fox** *jumps over the lazy dog.*
 ```
 
 
