@@ -710,12 +710,14 @@ We can also use HTML to create a list.
 
 
 
-        A list using HTML
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/93.png)
+
+A list using HTML
 
 Now let’s create a task list. We can create a task list using a hyphen followed by `[ ]`, and to mark a task complete, put an `x` inside the brackets.
 
 
-```
+```md
         - [x] Fix Bug 223
         - [ ] Add Feature 33
         - [ ] Add unit tests
