@@ -589,7 +589,7 @@ GIF
 
 
 
-![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/88.png)
+<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
 
 SVG
 
