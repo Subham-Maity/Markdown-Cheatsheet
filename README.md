@@ -470,9 +470,9 @@ We can create a link in four ways. The first one is by using an inline style. Th
 
 
 
+![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/67.png)
 
-
-        Inline-style
+Inline-style
 
 If you’re using the same link more the once, then using the reference style would be beneficial since you don’t have to write the link every time, and also, it’s easy to update the link. Moreover, you can use numbers for the reference text. Also, you can use the reference text as the link text.
 
@@ -491,6 +491,7 @@ If you’re using the same link more the once, then using the reference style wo
 
 
 ![](https://github.com/Subham-Maity/Markdown-Cheatsheet/blob/main/Images/68.png)
+
 Three variations of reference-style
 
 We can also create relative links with all relative link operands, such as `./` and `../`.
